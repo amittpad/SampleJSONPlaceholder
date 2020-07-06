@@ -1,0 +1,14 @@
+{
+  "name": "samplejsonplaceholder",
+  "version": "1.0.0",
+  "description": "Sample JSON REST API",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "AmitTPAD",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
