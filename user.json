@@ -1,0 +1,8 @@
+{
+  "message": "Login Successful",
+  "user": {
+    "id": "1",
+    "name": "Amit Pramanik",
+    "email": "amit@gmail.com"
+  }
+}
