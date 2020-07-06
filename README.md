@@ -14,6 +14,7 @@ How to Create Server
 9) Edit the script object --->{"json-server:":"json-server --watch db.json" and save
 10) npm run json:server
 11) add the new repostory on github.
+12) Start server json-server --watch db.json
 
 To accesss the server visit: https://my-json-server.typicode.com/<your-username>/<your-repo>
 
